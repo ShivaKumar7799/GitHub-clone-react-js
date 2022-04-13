@@ -6,7 +6,7 @@ import Card from './components/card';
 class App extends Component{
   constructor(props){
     super(props);
-    this.state = {
+    this.state = { 
       data : null
     }
     
